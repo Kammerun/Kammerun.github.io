@@ -1,8 +1,15 @@
 body {
-    background-color: slategray;
+    background-color: rgb(56, 65, 73);
 }
 
 h1 {
     font-weight: bold;
-    color: tomato;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: white;
 }
