@@ -6,12 +6,12 @@ body {
 h1 {
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
-    font-size: 40px;
+    font-size: 80px;
     color: rgb(255, 255, 255);
     text-align: center;
     text-transform: uppercase;
     border-bottom: 2px solid rgb(255, 255, 255);
-    padding-bottom: 25px;
+    padding-bottom: 50px;
     letter-spacing: 5px;
 }
 
@@ -22,11 +22,12 @@ ul {
 
 li {
     font-family: 'Oswald', sans-serif;
-    font-size: 20px;
+    font-size: 40px;
     color: white;
     margin: 0 auto;
     width: auto;
     transform: translateX(-20px);
     letter-spacing: 2.5px;
     list-style: none;
+    margin-top: 20px;
 }
